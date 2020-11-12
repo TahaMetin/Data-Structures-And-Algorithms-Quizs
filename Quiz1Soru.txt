@@ -1,0 +1,7 @@
+girilen N degeri için NxN boyutlu matrisin çıktısının örnekteki gibi olmasını sağlayacak kodu yazınız.
+Örnek çıktı:
+4
+2221
+2213
+2133
+1333
